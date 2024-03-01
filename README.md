@@ -1,2 +1,2 @@
 # My-HackerRank-Code
-Include code snippet from 'HackerRank'              
+These are the HackerRank codes I used to practice.
